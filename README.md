@@ -4,7 +4,7 @@
 
 This app helps you to play the game Eurojackpot, by generating random numbers.
 
-[eNumbers](1.2.0.png)
+![eNumbers](1.2.0.png)
 ### Current version:
 1.2.0 [download](https://drive.google.com/file/d/1dksapuNytz81LvCdVeoWWcGJuJQviUho/view?usp=sharing)
 Earlier versions are available on my website http://markokroselj.atwebpages.com
